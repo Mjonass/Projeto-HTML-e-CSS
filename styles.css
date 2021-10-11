@@ -112,7 +112,7 @@ h2 {
 .conteiner1{
     position: relative;
     background-color: #fff;
-    height: 392px!important;
+    height: 475px!important;
 }
 .elemente1{
     position: absolute;
@@ -197,9 +197,8 @@ h2 {
     font-weight:normal
 }
 #rodape{
-    margin: 100px;
-    height: 50px;
-    position: absolute;
-    left: 390px;
+    height: 60px;
+    position: relative;
     width: 930px;
-}
+    margin-top: 10px;
+    left: 10px;
