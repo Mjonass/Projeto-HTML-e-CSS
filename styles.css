@@ -37,9 +37,7 @@ h2 {
 #menu li{
     display: inline;
 }
-#menu2 li{
-    display: inline;
-}
+
 #borda{
     display: inline;
     border-right: solid 1px;
@@ -202,3 +200,4 @@ h2 {
     width: 930px;
     margin-top: 10px;
     left: 10px;
+}
