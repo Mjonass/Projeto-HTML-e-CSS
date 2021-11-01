@@ -165,7 +165,10 @@ h2 {
 }
 #imagem{
     display: inline-block;
-
+    margin-top: -7px;
+}
+#fot{
+    padding: 5.5px;
 }
 #destino{
     background-color:#1BB4E8;
