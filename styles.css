@@ -111,6 +111,7 @@ h2 {
     position: relative;
     background-color: #fff;
     height: 519px !important;
+    top: -3px;
 }
 .elemente1{
     position: absolute;
